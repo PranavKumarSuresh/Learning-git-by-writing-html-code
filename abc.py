@@ -6,6 +6,7 @@ class Shape(metaclass = ABCMeta):
 
 	@abstractmethod
 	def area(self):
+		f = 7
 		return 0
 
 
