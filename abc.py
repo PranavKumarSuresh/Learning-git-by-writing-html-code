@@ -8,6 +8,7 @@ class Shape(metaclass = ABCMeta):
 	def area(self):
 		return 0
 
+	
 
 class Square(Shape):
 	side = 4
