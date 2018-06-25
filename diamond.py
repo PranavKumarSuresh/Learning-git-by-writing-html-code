@@ -1,6 +1,6 @@
 class A:
 	def meth(self):
-		print("from A")
+		print("from Ab")
 
 class B(A):
 	def meth(self):
