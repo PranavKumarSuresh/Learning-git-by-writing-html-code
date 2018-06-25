@@ -4,7 +4,7 @@ from abc import ABCMeta,abstractmethod
 
 class Shape(metaclass = ABCMeta):
 
-	@abstractmethod
+	@abstractmethmod
 	def area(self):
 		return 0
 
